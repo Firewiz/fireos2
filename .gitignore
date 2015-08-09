@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# GCC artifacts
+gcc-cross/bin/
+gcc-cross/libexec/
